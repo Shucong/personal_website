@@ -12,6 +12,8 @@ design:
   columns: '1'
 ---
 
-Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+As a researcher in material science, I’ve been always fascinated by the intelligent materials—living organisms—that nature creates. To survive and master in the ever-changing environment, “nature uses soft materials frequently and stiff materials sparingly – better bent than broken” (Vogel, 1995), and is capable of tasks that surpass even the most impressive machines that humans have devised. 
 
-**Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+Interested in synthetically constructing soft intelligent materials, my research focuses on exploiting the rich dynamics in molecular switches and molecular assemblies, and its coupling to mesoscale architectures and macroscale material properties, to realize new exciting functions based on self-regulation across lengthscales. By bringing the intelligence of soft materials to the next level, I’m hoping to realize next-generation multifunctional materials with increased autonomy to address challenges in healthcare, energy, and sustainability.
+
+**Specialties:** polymer chemistry, material synthesis, nanofabrication

@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Contact (add or remove contact options as necessary)
-  email: boleiden@mit.edu
+  email: shucongli0@gmail.com
   # phone: 888 888 88 88
   # appointment_url: 'https://calendly.com'
   address:
@@ -32,7 +32,7 @@ content:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Bolei_DENG'
+    link: 'https://twitter.com/shucong_li_hhh'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me

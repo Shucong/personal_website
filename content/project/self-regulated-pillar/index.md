@@ -1,17 +1,19 @@
 ---
-title: Optimization and inverse design algorithms
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-weight: 30
+title: Self-regulated micropost
+subtitle:
+weight: 1
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 A brief explanation of the project... <br/><br/> **Selected publications:**<br/> 1. <span style="color:darkgray">Shucong Li, Michael M Lerch, James T Waters, Bolei Deng, Reese S Martens, Yuxing Yao, Do Yoon Kim, Katia Bertoldi, Alison Grinthal, Anna C Balazs, Joanna Aizenberg</span> (2022). [**Self-regulated non-reciprocal motions in single-material microstructures**](../../publication/li-2022-self/). *Nature*.
 
+# <br/> 1. <span style="color:darkgray"></span> (2021). [****](../../). **.
+
+# Summary for listings and search engines
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2022-08-04T00:00:01Z"
+date: "2022-08-05T00:00:01Z"
 
 # Date updated
 lastmod: "2022-08-06T00:00:00Z"
@@ -38,7 +40,7 @@ tags:
 - 开源
 
 categories:
-- Inverse algorithms
+- Forward problems
 ---
 
 ## Overview

@@ -14,7 +14,7 @@ organizations:
   url: "http://zhao.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on developing new stimuli-responsive polymeric microstructured surfaces and microactuators—leveraging fundamental principles of polymer science, chemical synthesis, mechanics, and advanced nano/microfabrication techniques—for applications in miniaturized soft robotics as well as optical and mechanical meta-devices. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -26,13 +26,10 @@ social:
   link: '/contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Bolei_Deng
+  link: https://twitter.com/shucong_li_hhh
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=97o3t5cAAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/boleideng94
+  link: https://scholar.google.com/citations?user=JuQrSfgAAAAJ&hl=en&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
