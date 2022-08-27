@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bolei Deng (邓博磊)
+title: Shucong Li (李姝聪)
 
 # Is this the primary user of the site?
 superuser: true
