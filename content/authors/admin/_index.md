@@ -6,12 +6,10 @@ title: Shucong Li (李姝聪)
 superuser: true
 
 # Role/position
-role: Postdoc in Mechanical Engineering and Computer Science
+role: Postdoc in Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: CDFG, CSAIL, MIT
-  url: "https://cdfg.mit.edu/"
 - name: ZhaoLab, MECHE, MIT
   url: "http://zhao.mit.edu/"
 
