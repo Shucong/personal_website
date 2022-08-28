@@ -1,10 +1,10 @@
 ---
-title: Self-regulated micropost
+title: Eliciting diverse motion trajectories in a single-material micropost
 subtitle:
 weight: 1
 
 # Summary for listings and search engines
-summary: Welcome 👋 A brief explanation of the project... <br/><br/> **Selected publications:**<br/> 1. <span style="color:darkgray">Shucong Li, Michael M Lerch, James T Waters, Bolei Deng, Reese S Martens, Yuxing Yao, Do Yoon Kim, Katia Bertoldi, Alison Grinthal, Anna C Balazs, Joanna Aizenberg</span> (2022). [**Self-regulated non-reciprocal motions in single-material microstructures**](../../publication/li-2022-self/). *Nature*.
+summary: <br/> **Related publications:**<br/> 1. <span style="color:darkgray">Shucong Li, Michael M Lerch, James T Waters, Bolei Deng, Reese S Martens, Yuxing Yao, Do Yoon Kim, Katia Bertoldi, Alison Grinthal, Anna C Balazs, Joanna Aizenberg</span> (2022). [**Self-regulated non-reciprocal motions in single-material microstructures**](../../publication/li-2022-self/). *Nature*.<br/> 2. <span style="color:darkgray">James T Waters, Shucong Li, Yuxing Yao, Michael M Lerch, Michael Aizenberg, Joanna Aizenberg, Anna C Balazs</span> (2020). [**Twist again - Dynamically and reversibly controllable chirality in liquid crystalline elastomer microposts**](../../publication/jin-2020/). *Advanced Materials*.<br/> 3. <span style="color:darkgray">Yuxing Yao, James T Waters, Anna V Shneidman, Jiaxi Cui, Xiaoguang Wang, Nikolaj K Mandsberg, Shucong Li, Anna C Balazs, Joanna Aizenberg</span> (2018). [**Multiresponsive polymeric microstructures with encoded predetermined and self-regulated deformability**](../../publication/jin-2020/). *Proceedings of the National Academy of Sciences*.<br/> 4. <span style="color:darkgray">Emily C Davidson, Arda Kotikian, Shucong Li, Joanna Aizenberg, Jennifer A Lewis</span> (2020). [**3D printable and reconfigurable liquid crystal elastomers with light‐induced shape memory via dynamic bond exchange**](../../publication/jin-2020/). *Advanced Materials*.
 
 # <br/> 1. <span style="color:darkgray"></span> (2021). [****](../../). **.
 

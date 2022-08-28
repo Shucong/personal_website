@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Physics of Metamaterials
+title: Towards intelligent soft materials
 subtitle:
 
 content:

@@ -6,7 +6,7 @@ title: Shucong Li (李姝聪)
 superuser: true
 
 # Role/position
-role: Postdoc in Mechanical Engineering
+role: Postdoc in Mechanical Engineering,
 
 # Organizations/Affiliations
 organizations:
