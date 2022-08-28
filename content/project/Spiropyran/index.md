@@ -1,11 +1,11 @@
 ---
-title: Reconfigurable cellular Metamaterials
+title: Photoswitches
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-weight: 40
+weight: 60
 
 # Summary for listings and search engines
-summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Shucong Li, Gabriele Librandi, Yuxing Yao, Austin J Richard, Alyssha Schneider‐Yamamura, Joanna Aizenberg, Katia Bertoldi</span> (2021). [**Controlling Liquid Crystal Orientations for Programmable Anisotropic Transformations in Cellular Microstructures**](../../publication/deng-2020-pulse/). *Advanced Materials*.
+summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Michael M. Lerch,#, Ankita Shastri,# Thomas B.H. Schroeder, Amos Meeks, Shucong Li, Anna V. Shneidman, Michael Aizenberg, Joanna Aizenberg</span> (2021). [**From Appendage to Crosslinker – Unusual Swelling Behavior in Spiropyran-Modified Hydrogels**](../../publication/deng-2020-pulse/). *ChemRxiv*.
 
 # Link this post with a project
 projects: []
