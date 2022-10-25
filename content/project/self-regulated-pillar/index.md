@@ -51,6 +51,14 @@ categories:
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**ShucongLi**](https://www.nature.com/articles/d41586-022-01080-9)'
+  focal_point: ""
+  placement: 1
+  preview_only: false
+
 ## Get Started
 
 - 👉 [**Create a new site**](https://wowchemy.com/hugo-themes/)
