@@ -2,10 +2,10 @@
 title: Functional Microstructured Surfaces
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-weight: 60
+weight: 50
 
 # Summary for listings and search engines
-summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Yuxing Yao, Robert KA Bennett, Yang Xu, Adil M. Rather, Shucong Li, Tung Chun Cheung, Alisha Bhanji, Michael J. Kreder, Dan Daniel, Solomon Adera, Joanna Aizenberg, Xiaoguang Wang</span> (2018). [**MWettability-based ultrasensitive detection of amphiphiles through directed concentration at disordered regions in self-assembled monolayers.**](../../publication/jin-2020/). *Proceedings of the National Academy of Sciences*.<br/>
+summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Yuxing Yao, Robert KA Bennett, Yang Xu, Adil M. Rather, Shucong Li, Tung Chun Cheung, Alisha Bhanji, Michael J. Kreder, Dan Daniel, Solomon Adera, Joanna Aizenberg, Xiaoguang Wang</span> (2022). [**MWettability-based ultrasensitive detection of amphiphiles through directed concentration at disordered regions in self-assembled monolayers.**](../../publication/jin-2020/). *Proceedings of the National Academy of Sciences*.<br/>
 
 
 # Link this post with a project
