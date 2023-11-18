@@ -5,7 +5,7 @@ subtitle: Welcome 👋 We know that first impressions are important, so we've po
 weight: 60
 
 # Summary for listings and search engines
-summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Michael M. Lerch,#, Ankita Shastri,# Thomas B.H. Schroeder, Amos Meeks, Shucong Li, Anna V. Shneidman, Michael Aizenberg, Joanna Aizenberg</span> (2021). [**From Appendage to Crosslinker – Unusual Swelling Behavior in Spiropyran-Modified Hydrogels**](../../publication/deng-2020-pulse/). *ChemRxiv*.
+summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Michael M. Lerch,#, Ankita Shastri,# Thomas B.H. Schroeder, Amos Meeks, Shucong Li, Anna V. Shneidman, Michael Aizenberg, Joanna Aizenberg</span> (2021). [**From Appendage to Crosslinker – Unusual Swelling Behavior in Spiropyran-Modified Hydrogels**](../../publication/lerch-2021-from/). *ChemRxiv*.
 
 # Link this post with a project
 projects: []

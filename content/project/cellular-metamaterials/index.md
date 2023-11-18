@@ -5,7 +5,7 @@ subtitle: Welcome 👋 We know that first impressions are important, so we've po
 weight: 50
 
 # Summary for listings and search engines
-summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Shucong Li, Gabriele Librandi, Yuxing Yao, Austin J Richard, Alyssha Schneider‐Yamamura, Joanna Aizenberg, Katia Bertoldi</span> (2021). [**Controlling Liquid Crystal Orientations for Programmable Anisotropic Transformations in Cellular Microstructures**](../../publication/deng-2020-pulse/). *Advanced Materials*.
+summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Shucong Li, Gabriele Librandi, Yuxing Yao, Austin J Richard, Alyssha Schneider‐Yamamura, Joanna Aizenberg, Katia Bertoldi</span> (2021). [**Controlling Liquid Crystal Orientations for Programmable Anisotropic Transformations in Cellular Microstructures**](../../publication/li-2021-controlling/). *Advanced Materials*.
 
 # Link this post with a project
 projects: []
