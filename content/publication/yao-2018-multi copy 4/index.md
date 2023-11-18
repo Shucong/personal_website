@@ -5,6 +5,18 @@ title: Multiresponsive polymeric microstructures with encoded predetermined and 
 subtitle: ''
 summary: ''
 authors:
+- Shucong Li
+- Michael M Lerch
+- James T Waters
+- Bolei Deng
+- Reese S Martens
+- Yuxing Yao
+- Do Yoon Kim
+- Katia Bertoldi
+- Alison Grinthal
+- Anna C Balazs
+- Joanna Aizenberg
+
 - Yuxing Yao
 - James T. Waters
 - Anna V. Shneidman
