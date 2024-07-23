@@ -12,7 +12,7 @@ design:
   columns: '1'
 ---
 ## **Memories**
-![](Graduation_1.png)
+![](graduation.png)
 Graduation ceremony with my advisor (May 2022)
 
 ![](defense.png)
