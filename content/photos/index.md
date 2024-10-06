@@ -11,7 +11,27 @@ subtitle: ""
 design:
   columns: '1'
 ---
+## **Lab memories**
+
+<div style="display: flex; gap: 20px; align-items: center;">
+    <video width="500" autoplay muted>
+        <source src="combined.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <video width="300" autoplay muted>
+        <source src="video2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <video width="300" autoplay muted>
+        <source src="video3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 ## **Memories**
+
 ![](graduation.png)
 Graduation ceremony with my advisor (May 2022)
 

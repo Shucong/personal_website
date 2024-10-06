@@ -44,3 +44,5 @@ In this Account, we will discuss recent advances in magnetic alignment of molecu
 publication: '*Acc. Mater. Res.*'
 doi: https://pubs.acs.org/doi/10.1021/accountsmr.3c00101
 ---
+
+<img src="cover1.jpg" alt="Cover Image" style="width: 400px; height: 600px; margin-right: 10px;">
