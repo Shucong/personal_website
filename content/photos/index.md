@@ -45,9 +45,11 @@ Pumpkin carving contest - we won the "spookiest" award with our TMAH (tetramethy
 First group outing in the Aizenberg group (July 2017)
 
 ## **Lab Memories**
-
-![](laser_cutter.jpg)
-Laser cutter is our good friend - it can make anything for you! (Oct 2024)
+| ![](laser_cut.png) | ![](large_sample.png) |
+|:---------------------:|:---------------:|
+| Laser cutter is our good friend - it can make anything for you! (Oct 2024)          | We care both very small feaures and scalability! (Ongoing)         |
+| ![](SEM.png)       | ![](lattice.jpg) |
+| A failed sample - but cool!               | Hexagonal lattice with 3D topography         |
 
 
 
