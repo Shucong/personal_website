@@ -38,8 +38,6 @@ tags:
 - Academic
 - 开源
 
-categories:
-- Forward problems
 ---
 
 In [**this paper**](../../publication/deng-2022-topological)

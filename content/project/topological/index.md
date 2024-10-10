@@ -39,8 +39,6 @@ tags:
 - Academic
 - 开源
 
-categories:
-- Forward problems
 ---
 
 ## Overview
