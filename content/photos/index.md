@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: '1'
 ---
-## **Lab memories**
+## **Microscopic world - Reconfigurable microstructures**
 
 <div style="display: flex; gap: 20px; align-items: center;">
     <video width="500" autoplay muted>
@@ -43,4 +43,11 @@ Pumpkin carving contest - we won the "spookiest" award with our TMAH (tetramethy
 
 ![](group_outing.png)
 First group outing in the Aizenberg group (July 2017)
+
+## **Lab Memories**
+
+![](laser_cutter.jpg)
+Laser cutter is our good friend - it can make anything for you! (Oct 2024)
+
+
 
