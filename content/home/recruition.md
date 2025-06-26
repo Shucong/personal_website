@@ -11,7 +11,11 @@ subtitle: ""
 design:
   columns: '1'
 ---
-I am an Assistant Professor at Georgia Tech School of Materials Science and Engineering and School of Physics leading the **Soft Intelligent Materials and Devices Lab:** Multiscale Synthesis and Manufacturing. I am actively recruiting undergraduate and graduate researchers, visiting students, and interns (checkout <a href="https://www.shucongli.com/opportunity/" style="text-decoration: underline;">**Opportunity</a>**) page for more information. 
+June 11, 2025
+Our recent paper on "A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley" has just been published in **Nature Water**! This study demonstrates a window-sized device capable of pulling safe drinking water directly from air, enabled by shape-morphing origami hydrogels that optimize water capture and release.
+
+Check out the MIT News feature here: <a href="https://news.mit.edu/2025/window-sized-device-taps-air-safe-drinking-water-0611" 
+
 <br>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, black, transparent);">

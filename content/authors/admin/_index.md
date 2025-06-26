@@ -6,12 +6,13 @@ title: Shucong Li (李姝聪)
 superuser: true
 
 # Role/position
-role: Postdoc in Mechanical Engineering,
+role: Assistant Professor, 
 
 # Organizations/Affiliations
 organizations:
-- name: ZhaoLab, MECHE, MIT
-  url: "http://zhao.mit.edu/"
+- name: School of Materials Science and Engineering, 
+School of Physics, Georgia Tech
+  url: "https://www.mse.gatech.edu/people/shucong-li"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on developing new stimuli-responsive polymeric microstructured surfaces and microactuators—leveraging fundamental principles of polymer science, chemical synthesis, mechanics, and advanced nano/microfabrication techniques—for applications in miniaturized soft robotics as well as optical and mechanical meta-devices. 
