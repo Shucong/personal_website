@@ -32,6 +32,9 @@ design:
 
 ## **Memories**
 
+![](death_valley.png)
+Field test in Death Valley (Nov 2023)
+
 ![](graduation.png)
 Graduation ceremony with my advisor (May 2022)
 
