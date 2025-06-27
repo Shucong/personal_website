@@ -8,11 +8,12 @@ superuser: true
 # Role/position
 role: Assistant Professor, 
 
-# Organizations/Affiliations
 organizations:
-website: School of Materials Science and Engineering, School of Physics, Georgia Tech
+  - name: School of Materials Science and Engineering
+    url: https://www.mse.gatech.edu/people/shucong-li
+  - name: School of Physics
+    url: https://www.physics.gatech.edu/
 
-website: https://www.mse.gatech.edu/people/shucong-li
 
 # url: "https://www.mse.gatech.edu/people/shucong-li"
 
