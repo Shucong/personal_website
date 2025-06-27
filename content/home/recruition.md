@@ -5,16 +5,17 @@
 
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 12  # Order that this section will appear.
+weight: 1  # Order that this section will appear.
 title: "News"
 subtitle: ""
 design:
   columns: '1'
 ---
-June 11, 2025
-Our recent paper on "A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley" has just been published in **Nature Water**! This study demonstrates a window-sized device capable of pulling safe drinking water directly from air, enabled by shape-morphing origami hydrogels that optimize water capture and release.
+- date: 2025-06-11
+  headline: >
+    Our recent paper on “A  metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley" has just been published in **Nature Water**! This study demonstrates a window-sized device capable of pulling safe drinking water directly from air, enabled by shape-morphing origami hydrogels that optimize water capture and release.
+<a href="https://news.mit.edu/2025/window-sized-device-taps-air-safe-drinking-water-0611">Check out the MIT News feature here</a>
 
-Check out the MIT News feature here: <a href="https://news.mit.edu/2025/window-sized-device-taps-air-safe-drinking-water-0611" 
 
 <br>
 

@@ -11,7 +11,7 @@ role: Assistant Professor,
 organizations:
   - name: School of Materials Science and Engineering
     url: https://www.mse.gatech.edu/people/shucong-li
-  - name: School of Physics
+  - name: School of Physics, Georgia Tech
     url: https://www.physics.gatech.edu/
 
 
