@@ -10,7 +10,7 @@ role: Assistant Professor,
 
 # Organizations/Affiliations
 organizations:
-- website: School of Materials Science and Engineering, School of Physics, Georgia Tech
+website: School of Materials Science and Engineering, School of Physics, Georgia Tech
 
 website: https://www.mse.gatech.edu/people/shucong-li
 
