@@ -2,7 +2,7 @@
 title: Photoswitches
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-weight: 60
+weight: 2
 
 # Summary for listings and search engines
 summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Michael M. Lerch,#, Ankita Shastri,# Thomas B.H. Schroeder, Amos Meeks, Shucong Li, Anna V. Shneidman, Michael Aizenberg, Joanna Aizenberg</span> (2021). [**From Appendage to Crosslinker – Unusual Swelling Behavior in Spiropyran-Modified Hydrogels**](../../publication/lerch-2021-from/). *ChemRxiv*.

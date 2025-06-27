@@ -1,7 +1,7 @@
 ---
 title: Topological transformation of cellular microstructures
 subtitle:
-weight: 5
+weight: 25
 
 # Summary for listings and search engines
 summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Shucong Li#, Bolei Deng#, Alison Grinthal, Alyssha Schneider-Yamamura, Jinliang Kang, Reese S Martens, Cathy T Zhang, Jian Li, Siqin Yu, Katia Bertoldi, Joanna Aizenberg</span> (2021). [**Liquid-induced topological transformations of cellular microstructures**](../../publication/li-2021-liquid/). *Nature*.

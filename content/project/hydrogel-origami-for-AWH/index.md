@@ -2,7 +2,7 @@
 title: Hydrogel origami for atmospheric water harvesting
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-weight: 1
+weight: 10
 
 # Summary for listings and search engines
 summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Chang Liu, Xiao-yun Yan, Hongshi Zhang, Bolei Deng, Nicholas X Fang, Youssef Habibi, Shih-Chi Chen, Xuanhe Zhao</span> (2025). [**A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley**](../../publication/li-2021-controlling/). *Nature Water*.
