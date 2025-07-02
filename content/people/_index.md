@@ -1,7 +1,11 @@
 ---
+
 title: "People"
-subtitle: "Meet our team"
+subtitle: "Meet the team behind the research"
 layout: people
-# Optionally control ordering
+groups:
+  - title: "Principal Investigator"
+  - title: "PhD Students"
+  - title: "Undergraduate Students"
 weight: 10
 ---
