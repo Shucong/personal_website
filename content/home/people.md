@@ -2,14 +2,11 @@
 widget: people
 title: "Our Team"
 design:
-  layout: grouped
+  layout: list  # or 'card' if you prefer photos/cards
   align: center
 active: true
 weight: 65
-
 ---
-
-
 
 
 

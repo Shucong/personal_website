@@ -1,12 +1,10 @@
 ---
-
-title: "Test Author"
-role: Dummy
-email: dummy@example.com
+name: Xinyi Ding
+title: PhD Student
+email: xding94@gatech.edu
 avatar:
   image: avatar.jpg
   shape: circle
-groups:
-  - "PhD Students"
-
+superuser: false
 ---
+Xinyi works on hydrogel composites and biomedical imaging.
