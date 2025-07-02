@@ -15,5 +15,5 @@ avatar:
   image: xinyi.jpg
   shape: circle
 groups:
-  - PhD Students
+  - "PhD Students"
 ---

@@ -15,5 +15,5 @@ avatar:
   image: shucong.jpg
   shape: circle
 groups:
-  - Principal Investigator
+  - "Principal Investigator"
 ---
