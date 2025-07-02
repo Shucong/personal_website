@@ -1,4 +1,4 @@
 ---
-title: "People"
-layout: authors
+title: People
+type: widget_page
 ---

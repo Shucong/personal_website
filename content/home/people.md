@@ -1,5 +1,6 @@
 ---
 widget: people
+headless: true
 title: "Our Team"
 design:
   layout: list  # or 'card' if you prefer
@@ -8,6 +9,6 @@ active: true
 weight: 65
 content:
   # Filter out specific people if you want
-  content_type: authors
+  content_type: people
 ---
 

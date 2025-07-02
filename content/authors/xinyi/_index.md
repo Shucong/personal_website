@@ -1,11 +1,9 @@
 ---
-name: Xinyi Ding
-title: PhD Student
-email: xding94@gatech.edu
-avatar:
-  image: avatar.jpg
-  shape: circle
-superuser: false
-authors: ["xinyi"]
+title: "Xinyi"
+role: "PhD Student"
+organization: "Georgia Tech MSE"
+avatar: "avatar.jpg"
+date: 2025-08-01
+weight: 1
 ---
-Xinyi works on hydrogel composites and biomedical imaging.
+Xinyi works on stimuli–responsive materials and biomimetic soft robotics.
