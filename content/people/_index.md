@@ -7,5 +7,4 @@ groups:
   - title: "Principal Investigator"
   - title: "PhD Students"
   - title: "Undergraduate Students"
-weight: 10
 ---
