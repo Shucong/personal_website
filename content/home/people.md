@@ -1,14 +1,12 @@
 ---
 widget: people
-headless: true
 title: "Our Team"
+show_title: true
 design:
-  layout: list  # or 'card' if you prefer
+  layout: list
   align: center
 active: true
 weight: 65
 content:
-  # Filter out specific people if you want
   content_type: people
 ---
-
