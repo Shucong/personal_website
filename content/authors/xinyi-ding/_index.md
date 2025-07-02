@@ -1,12 +1,12 @@
 ---
 
-title: "Xinyi Ding"
-email: xding94@gatech.edu
+title: "Test Author"
+role: Dummy
+email: dummy@example.com
 avatar:
-  image: xinyi.jpg
+  image: avatar.jpg
   shape: circle
 groups:
   - "PhD Students"
-
 
 ---
