@@ -1,5 +1,7 @@
 ---
 title: "People"
-layout: authors
-summary: "Meet our team"
+subtitle: "Meet our team"
+layout: people
+# Optionally control ordering
+weight: 10
 ---
