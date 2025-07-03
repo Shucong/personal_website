@@ -1,5 +1,7 @@
 ---
 widget: people
+title: "Our team"
+headless: false
 design:
   layout: card
   align: center
@@ -10,4 +12,6 @@ content:
   content_type: people
   filter:
     - title != "Shucong Li"
+  show_date: false
+
 ---
