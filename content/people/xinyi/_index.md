@@ -1,7 +1,8 @@
 ---
 title: Xinyi Ding
-headless: true
 type: person
+headless: true
+link_to_detail: false
 profile:
   role: PhD Student
   organization: Georgia Tech MSE
