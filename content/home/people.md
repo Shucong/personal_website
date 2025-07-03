@@ -1,12 +1,13 @@
 ---
 widget: people
-title: "Our Team"
-show_title: true
 design:
-  layout: list
+  layout: card
   align: center
+  show_avatar: true
 active: true
 weight: 65
 content:
   content_type: people
+  filter:
+    - title != "Shucong Li"
 ---

@@ -1,12 +1,15 @@
 ---
-type: widget_page
-widget: blank  # See https://wowchemy.com/docs/page-builder/
-headless: false  # This file represents a page section.
-# weight: 20  # Order that this section will appear.
+widget: people
 title: "People"
-subtitle: "ha"
+headless: true
 design:
-  columns: '1'
+  layout: card
+  align: center
+active: true
+weight: 65
+content:
+  content_type: people
 ---
+
 ## **Meet our team**
 ---
