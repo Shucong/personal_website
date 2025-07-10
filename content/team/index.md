@@ -62,17 +62,18 @@ menu:
  <div class="team-member">
     <img src="/media/people/tushar/avatar.jpg" alt="Tushar Narayan Singh" class="team-avatar">
     <h3> Tushar Narayan Singh</h3>
-    <p><strong>MS Student</strong><br>University of Groningen, Intern Student at Georgia Tech AE & MSE</p>
+    <p><strong>MS Student</strong><br>MSc Biomedical Engineering at University of Groningen (RUG), AE & MSE Intern Student at Georgia Tech</p>
     <p><strong>Education</strong><br>University of Groningen, M.S. in Biomedical Engineering, 2025</p>
-    <p>Tushar is currently pursuing his bachelors in Biomedical Engineering at the University of Groningen. </p>
+    <p>Tushar completed a Bachelor's in Biomedical Engineering at the University of Groningen, with a minor in Biomaterials Science and Engineering. For his Bachelor’s thesis, he worked in the Lerch Lab under the supervision of Dr. Michael Lerch and Foteini Trigka (Ph.D. student), focusing on the digital twinning of liquid crystalline network (LCN) soft robots. This research incorporated computer vision methods to support the development of a predictive model through machine learning, using data from fabricated LCN thin films.
+    In 2023, Tushar began his Master's in Biomedical Engineering at the University of Groningen, while also participating in the High Technology Systems and Materials (HTSM) Honours Programme. For his Master's thesis, he is currently conducting research at Georgia Tech under the guidance of Dr. Shucong Li and Dr. Bolei Deng. His work focuses on macro-to-micro control strategies for liquid crystalline elastomeric (LCE) soft robots. This project features a finite element modelling approach to capture the dynamic behaviours of light-activated LCE structures, serving as a tool to support inverse design workflows.</p>
   </div>
 
  <div class="team-member">
-    <img src="/media/people/gabi/avatar.jpg" alt="Tushar Narayan Singh" class="team-avatar">
-    <h3> Gabriella E Carreira</h3>
+    <img src="/media/people/mara/avatar.jpg" alt="Maria Giannakoudi" class="team-avatar">
+    <h3> Maria Giannakoudi</h3>
     <p><strong>Undergraduate Student</strong><br>Georgia Tech MSE</p>
-    <p><strong>Education</strong><br>High School</p>
-    <p> </p>
+    <p><strong>Education</strong><br>Imperial College London / Massachusetts Institute of Technology (Exchange), MEng in Materials Science and Engineering, 2025</p>
+    <p>At Imperial College, Maria worked with Dr. Iain Dunlop to develop a model hydrogel system for reconstructing soft tissues under dynamic tensile loads. During her time at MIT, she completed her master’s thesis as part of the water harvesting team in Professor Xuanhe Zhao’s research lab, and in collaboration with Professor Florian Bouville from Imperial College. Her thesis centered on developing an aero-hydrogel for sorption-based atmospheric water harvesting to address water scarcity in arid regions. This work focused on creating a device with fast sorption kinetics, long-term cycling stability, and scalable fabrication, aiming to bridge the gap between fundamental atmospheric water harvesting research and practical, large-scale applications. </p>
   </div>
 
 </div>
