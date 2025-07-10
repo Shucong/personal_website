@@ -21,15 +21,15 @@ menu:
 }
 
 .team-member {
-  flex: 1 1 400px;  /* responsive width with minimum of 400px */
-  max-width: 550px;
-  text-align: center;
+  flex: 1 1 600px;  /* responsive width with minimum of 400px */
+  max-width: 650px;
+  text-align: justify;
   font-family: sans-serif;
 }
 
 .team-avatar {
-  width: 160px;
-  height: 160px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
@@ -71,7 +71,7 @@ menu:
  <div class="team-member">
     <img src="/media/people/mara/avatar.jpg" alt="Maria Giannakoudi" class="team-avatar">
     <h3> Maria Giannakoudi</h3>
-    <p><strong>Undergraduate Student</strong><br>Georgia Tech MSE</p>
+    <p><strong>MS Student</strong><br>Exchange student at MIT, MechE</p>
     <p><strong>Education</strong><br>Imperial College London / Massachusetts Institute of Technology (Exchange), MEng in Materials Science and Engineering, 2025</p>
     <p>At Imperial College, Maria worked with Dr. Iain Dunlop to develop a model hydrogel system for reconstructing soft tissues under dynamic tensile loads. During her time at MIT, she completed her master’s thesis as part of the water harvesting team in Professor Xuanhe Zhao’s research lab, and in collaboration with Professor Florian Bouville from Imperial College. Her thesis centered on developing an aero-hydrogel for sorption-based atmospheric water harvesting to address water scarcity in arid regions. This work focused on creating a device with fast sorption kinetics, long-term cycling stability, and scalable fabrication, aiming to bridge the gap between fundamental atmospheric water harvesting research and practical, large-scale applications. </p>
   </div>
