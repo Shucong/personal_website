@@ -10,6 +10,7 @@ baseURL: 'shucongli.com' # Website URL
 ## LANGUAGE
 ############################
 
+
 languageCode: en-us
 hasCJKLanguage: false
 removePathAccents: true
