@@ -53,10 +53,10 @@ menu:
 
   <div class="team-member">
     <img src="/media/people/haodong/avatar.jpg" alt="Haodong Wu" class="team-avatar">
-    <h3>Haodong Wu</h3>
+    <h3>Haodong Hu</h3>
     <p><strong>G1 PhD Student</strong><br>Georgia Tech MSE</p>
     <p><strong>Education</strong><br>University of Science and Technology of China, M.S. in Chemistry, 2025</p>
-    <p>Haodong has developed strong interests and motivation in studying polymer materials science since his undergraduate study. After entering USTC, he joined in Prof. Quan Chen’s lab, and his research focused on the elasticity and swelling behaviour of hydrogels based on tetra-armed prepolymers. Haodong has done several poster presentations in international symposiums, and his work has been widely recognized by many excellent researchers. Haodong is currently a Ph.D. student in the School of Materials Science and Engineering at Georgia Tech. His research in the Shucong lab will focus on smart materials including liquid crystalline elastomers and hydrogels.</p>
+    <p>Haodong has developed strong interests and motivation in studying polymer materials science since his undergraduate study. After entering USTC, he joined in Prof. Quan Chen’s lab, and his research focused on the elasticity and swelling behaviour of hydrogels based on tetra-armed prepolymers. Haodong has done several poster presentations in international symposiums, and his work has been widely recognized by many excellent researchers. Haodong is currently a Ph.D. student in the School of Materials Science and Engineering at Georgia Tech. His research in the Li lab will focus on smart materials including liquid crystalline elastomers and hydrogels.</p>
   </div>
 
  <div class="team-member">
