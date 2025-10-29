@@ -85,4 +85,20 @@ menu:
   </div>
 
 
+ <div class="team-member">
+    <img src="/media/people/yihui/avatar.jpg" alt="Yihui Ou" class="team-avatar">
+    <h3> Yihui Ou</h3>
+    <p><strong>Undergrad Intern Student</strong><br>Georgia Tech MSE</p>
+    <p><strong>Education</strong><br>Fuzhou University, B.Sc. in Chemical Engineering, 2026</p>
+    <p>Yihui is an undergraduate student in Chemical Engineering at Fuzhou University. He previously conducted research under the supervision of Prof. Chenguang Liu, where he worked on green organic synthesis and flow chemistry, contributing to several peer-reviewed publications. He also gained experience in electrocatalysis under Prof. Yu Luo and Prof. Huihuang Fang. He is currently an undergraduate intern in Prof. Li’s group at Georgia Tech, focusing on the development of light-activated liquid crystal elastomers (LCEs). Outside the lab, he enjoys playing badminton and table tennis.</p>
+  </div>
+
+   <div class="team-member">
+    <img src="/media/people/christian/avatar.jpg" alt="Christian Kim" class="team-avatar">
+    <h3> Christian Kim</h3>
+    <p><strong>1st year Undergrad Student</strong><br>Georgia Tech MSE</p>
+    <p><strong>Education</strong><br>B.E. in Materials Science and Engineering with Biomaterials Concentration, 2029</p>
+    <p>Inspired by the principle of biomimicry, Christian is investigating the development and testing of liquid crystal elastomer composites through 3D printing techniques. This work aims to advance research on artificial muscles and other biomaterial systems.</p>
+  </div>
+
 </div>
