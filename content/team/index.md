@@ -101,4 +101,12 @@ menu:
     <p>Inspired by the principle of biomimicry, Christian is investigating the development and testing of liquid crystal elastomer composites through 3D printing techniques. This work aims to advance research on artificial muscles and other biomaterial systems.</p>
   </div>
 
+     <div class="team-member">
+    <img src="/media/people/botao/avatar.jpg" alt="Botao Li" class="team-avatar">
+    <h3> Botao Li</h3>
+    <p><strong>4th year Undergrad Intern Student</strong><br>Georgia Tech MSE</p>
+    <p><strong>Education</strong><br>B.Sc. in Chemistry, 2026</p>
+    <p>Botao is a senior undergraduate student majoring in Chemistry at Wuhan University. He gained experience in organic synthesis under the supervision of Prof. Wenbo Liu. He also conducted research under the guidance of Prof. Zhen Li, focusing on organic room-temperature phosphorescent (RTP) materials containing dynamic covalent bonds. He is currently an undergraduate intern in Prof. Li’s group at Georgia Tech, where he focuses on the integration of organic luminescent materials with liquid crystal elastomers (LCEs).</p>
+  </div>
+
 </div>
