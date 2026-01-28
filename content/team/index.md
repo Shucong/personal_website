@@ -100,7 +100,8 @@ menu:
     <p><strong>Education</strong><br>B.E. in Materials Science and Engineering with Biomaterials Concentration, 2029</p>
     <p>Inspired by the principle of biomimicry, Christian is investigating the development and testing of liquid crystal elastomer composites through 3D printing techniques. This work aims to advance research on artificial muscles and other biomaterial systems.</p>
   </div>
-
+  
+  </div>
      <div class="team-member">
     <img src="/media/people/botao/avatar.jpg" alt="Botao Li" class="team-avatar">
     <h3> Botao Li</h3>
