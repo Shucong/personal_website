@@ -21,6 +21,11 @@ design:
 </div>
 
 <div style="margin-bottom: 1rem;">
+  <strong>Feburary 27, 2026</strong><br>
+  Congratulations to Xinyi Ding on being selected as a Novelis Graduate Scholar for the 2026 calendar year. We are very proud of this well-deserved recognition!
+</div>
+
+<div style="margin-bottom: 1rem;">
   <strong>June 11, 2025</strong><br>
   Our recent paper on "A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley" has just been published in <em>Nature Water</em>! This study demonstrates a window-sized device capable of pulling safe drinking water directly from air, enabled by shape-morphing origami hydrogels that optimize water capture and release.
   <a href="https://news.mit.edu/2025/window-sized-device-taps-air-safe-drinking-water-0611" target="_blank">
