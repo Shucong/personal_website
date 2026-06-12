@@ -4,7 +4,8 @@
 widget: contact
 
 # This file represents a page section.
-headless: true
+headless: false
+active: false
 
 # Order that this section appears on the page.
 weight: 10
@@ -14,25 +15,18 @@ subtitle:
 
 content:
   # Contact (add or remove contact options as necessary)
-  email: shucongli0@gmail.com
+  email: shucong.li@mse.gatech.edu
   # phone: 888 888 88 88
   # appointment_url: 'https://calendly.com'
   address:
-    street: 32 Vassar St, Room 321
-    city: Cambridge
-    region: MA
-    postcode: '02139'
+    street: 500 10th St NW, RBI 590
+    city: Atlanta
+    region: GA
+    postcode: '30332'
     country: United States
     country_code: US
-  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  # office_hours:
-  #   - 'Monday 10:00 to 13:00'
-  #   - 'Wednesday 09:00 to 10:00'
+
   contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/shucong_li_hhh'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
