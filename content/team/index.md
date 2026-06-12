@@ -108,6 +108,7 @@ menu:
     <p>At Imperial College, Maria worked with Dr. Iain Dunlop to develop a model hydrogel system for reconstructing soft tissues under dynamic tensile loads. During her time at MIT, she completed her master’s thesis as part of the water harvesting team in Professor Xuanhe Zhao’s research lab, and in collaboration with Professor Florian Bouville from Imperial College. Her thesis centered on developing an aero-hydrogel for sorption-based atmospheric water harvesting to address water scarcity in arid regions. This work focused on creating a device with fast sorption kinetics, long-term cycling stability, and scalable fabrication, aiming to bridge the gap between fundamental atmospheric water harvesting research and practical, large-scale applications. </p>
   </div>
 
+## Undergraduate Students
   <div class="team-member">
     <img src="/media/people/gabi/avatar.jpg" alt="Gabriella Carreira" class="team-avatar">
     <h3> Gabriella Carreira</h3>
