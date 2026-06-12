@@ -41,6 +41,28 @@ menu:
 
 ## Meet Our Team
 
+## Principal Investigator
+<div class="pi-section">
+  <img src="/media/people/shucong/avatar.jpg" alt="Shucong Li" class="pi-avatar">
+
+  <div class="pi-info">
+    <h3>Shucong Li</h3>
+    <p><strong>Assistant Professor</strong><br>School of Materials Science and Engineering, School of Physics, Georgia Tech</p>
+
+    <p><strong>Education</strong><br>
+    Ph.D., Harvard University<br>
+    B.S., Tsinghua University
+    </p>
+
+    <p>
+    Shucong Li is an Assistant Professor in the School of Materials Science and Engineering at Georgia Tech. Her research focuses on soft materials, liquid crystalline elastomers, active materials, and advanced manufacturing
+    for programmable soft matter systems.
+    </p>
+  </div>
+</div>
+
+## Graduate Students
+
 <div class="team-grid">
 
   <div class="team-member">
