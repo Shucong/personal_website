@@ -109,6 +109,7 @@ menu:
   </div>
 
 ## Undergraduate Students
+
   <div class="team-member">
     <img src="/media/people/gabi/avatar.jpg" alt="Gabriella Carreira" class="team-avatar">
     <h3> Gabriella Carreira</h3>
