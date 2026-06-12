@@ -31,6 +31,8 @@ design:
 </div>
 
 ## **Memories**
+![](group_BBQ.png)
+Summer group BBQ gathering (June 2026)
 
 ![](death_valley.png)
 Field test in Death Valley (Nov 2023)
