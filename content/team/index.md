@@ -57,7 +57,7 @@ menu:
 ## Principal Investigator
 
 <div class="pi-member">
-  <img src="/media/people/shucong/avatar.png" alt="Shucong Li" class="pi-avatar">
+  <img src="/media/people/shucong/avatar.jpg" alt="Shucong Li" class="pi-avatar">
 
   <h3>Shucong Li</h3>
 
