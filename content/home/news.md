@@ -14,7 +14,7 @@ design:
 ---
 <div style="margin-bottom: 1rem;">
   <strong>April 16, 2026</strong><br>
-  Excited to share that our group has been awarded a **2026 RBI Fellowship** with Dr. Julene Tong (GT, ChBE) for our project, **[“Robust Packaging Insert via Phase-Separated Lignin Aerogel Particle-Supported Cellulose Hydrogel Composites”]**.
+  Excited to share that our group has been awarded a 2026 RBI Fellowship with Dr. Julene Tong (GT, ChBE) for our project, "Robust Packaging Insert via Phase-Separated Lignin Aerogel Particle-Supported Cellulose Hydrogel Composites.”
   <a href="https://news.research.gatech.edu/2026/04/16/rbi-announces-new-fellowships-expanding-interdisciplinary-reach" target="_blank">
     Check out the Georgia Tech RBI News here
   </a>
