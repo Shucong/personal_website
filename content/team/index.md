@@ -35,6 +35,22 @@ menu:
   margin-bottom: 1rem;
   box-shadow: 0 0 6px rgba(0,0,0,0.1);
 }
+
+.pi-member {
+  max-width: 650px;
+  margin: 2rem auto 4rem auto;
+  text-align: justify;
+  font-family: sans-serif;
+}
+
+.pi-avatar {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 6px rgba(0,0,0,0.1);
+}
 </style>
 
 
