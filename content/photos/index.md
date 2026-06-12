@@ -30,9 +30,11 @@ design:
     </video>
 </div>
 
-## **Memories**
+## **Lab Memories**
 ![](group_BBQ.png)
 Summer group BBQ gathering (June 2026)
+
+## **Prior to Georgia Tech**
 
 ![](death_valley.png)
 Field test in Death Valley (Nov 2023)
@@ -49,7 +51,6 @@ Pumpkin carving contest - we won the "spookiest" award with our TMAH (tetramethy
 ![](group_outing.png)
 First group outing in the Aizenberg group (July 2017)
 
-## **Lab Memories**
 | ![](laser_cut.png) | ![](large_sample.png) |
 |:---------------------:|:---------------:|
 | Laser cutter is our good friend - it can make anything for you! (Oct 2024)          | We care both very small feaures and scalability! (Ongoing)         |
