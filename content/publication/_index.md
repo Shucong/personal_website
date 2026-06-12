@@ -21,9 +21,12 @@ header:
     <img src="cover1.jpg" alt="Cover Image 2" style="display: inline-block; width: 160px; height: 200px;">
 </div>
 
-<p style="margin-top: 20px; font-size: 18px;">
+<p style="margin-top: 28px; margin-bottom: 8px; font-size: 22px; line-height: 1.5;">
   For a full list of publications, please see my 
-  <a href="https://scholar.google.com/citations?user=JuQrSfgAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">
+  <a href="https://scholar.google.com/citations?user=YOUR_ID_HERE"
+     target="_blank"
+     rel="noopener"
+     style="color: #1a73e8; font-weight: 600; text-decoration: underline;">
     Google Scholar profile
   </a>.
 </p>
