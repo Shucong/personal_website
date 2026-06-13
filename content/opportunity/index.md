@@ -13,9 +13,9 @@ design:
 ---
 ## **Multiple Ph.D. Positions at Georgia Tech MSE**
 
-Our lab **Soft Intelligent Materials and Devices Lab** warmly invites applications from students with backgrounds in materials science, chemistry, soft matter physics, and related fields. 
+Our lab **Soft Responsive Materials Laboratory** warmly invites applications from students with backgrounds in materials science, chemistry, soft matter physics, and related fields. 
 
-**We are actively recruiting undergraduate and graduate researchers (1-2 Ph.D. students to join our team in the spring of 2026 or fall of 2026), visiting students, and interns. If you believe your background aligns with our research areas (checkout <a href="https://www.shucongli.com/" style="text-decoration: underline;">Research</a>) page for more information, please send the following documents to Dr. Shucong Li (shucongligatech@gmail.com):**
+**We are actively recruiting undergraduate and graduate researchers (1-2 Ph.D. students to join our team in the spring of 2027 or fall of 2027), visiting students, and interns. If you believe your background aligns with our research areas (checkout <a href="https://www.shucongli.com/" style="text-decoration: underline;">Research</a>) page for more information, please send the following documents to Dr. Shucong Li (shucongligatech@gmail.com):**
 
 
 1. **Resume** (highlighting research experience).
