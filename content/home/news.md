@@ -21,7 +21,7 @@ design:
 </div>
 
 <div style="margin-bottom: 1rem;">
-  <strong>Feburary 27, 2026</strong><br>
+  <strong>February 27, 2026</strong><br>
   Congratulations to Xinyi Ding on being selected as a Novelis Graduate Scholar for the 2026 calendar year. We are very proud of this well-deserved recognition!
 </div>
 
