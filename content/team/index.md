@@ -10,139 +10,248 @@ menu:
 ---
 
 <style>
-.team-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  justify-content: center;
-  padding: 1rem 0;
-  max-width: 1400px;
+.people-container {
+  max-width: 1100px;
   margin: 0 auto;
-}
-
-.team-member {
-  flex: 1 1 600px;  /* responsive width with minimum of 400px */
-  max-width: 650px;
-  text-align: justify;
+  padding: 1rem 0 4rem 0;
   font-family: sans-serif;
 }
 
-.team-avatar {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 1rem;
-  box-shadow: 0 0 6px rgba(0,0,0,0.1);
+.people-section {
+  margin-top: 3rem;
 }
 
-.pi-member {
-  max-width: 650px;
-  margin: 2rem auto 4rem auto;
-  text-align: justify;
-  font-family: sans-serif;
+.people-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
 }
 
-.pi-avatar {
-  width: 220px;
-  height: 220px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 1rem;
-  box-shadow: 0 0 6px rgba(0,0,0,0.1);
+
+
+.person-card {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  align-items: start;
 }
+
+.person-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 0 6px rgba(0,0,0,0.12);
+}
+
+.person-info h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.45rem;
+  font-weight: 700;
+}
+
+.person-role {
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.person-meta {
+  margin-top: 0.8rem;
+  line-height: 1.6;
+}
+
+.person-bio {
+  text-align: left;
+  line-height: 1.5;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 700px) {
+  .person-card,
+  .person-card.compact {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .person-avatar,
+  .person-card.compact .person-avatar {
+    width: 150px;
+    height: 150px;
+  }
+}
+
 </style>
 
+<div class="people-container">
 
 ## Principal Investigator
 
-<div class="pi-member">
-  <img src="/media/people/shucong/avatar.jpg" alt="Shucong Li" class="pi-avatar">
+<div class="person-card">
+  <img src="/media/people/shucong/avatar.jpg" alt="Shucong Li" class="person-avatar">
 
-  <h3>Shucong Li</h3>
+  <div class="person-info">
+    <h3>Shucong Li (李姝聪)</h3>
+    <div class="person-role">Assistant Professor, Georgia Tech MSE & Physics</div>
 
-  <p><strong>Assistant Professor</strong><br>
-  School of Materials Science and Engineering, School of Physics, Georgia Tech</p>
+  <div class="person-meta">
+      Email: <a href="mailto:shucong.li@gatech.edu">shucong.li@gatech.edu</a>
+    </div>
 
-  <p><strong>Education and Training</strong><br>
-  Postdoc, MIT (2022-2024)<br>
-  Ph.D., Harvard University（2016-2022）<br>
-  B.S., Tsinghua University（2012-2026）</p>
+  <p class="person-bio">
+      Shucong Li is an Assistant Professor in the School of Materials Science and Engineering (MSE) and the School of Physics at Georgia Tech. Her research focuses on soft intelligent materials, liquid crystalline elastomers, active materials, and advanced manufacturing for programmable soft matter systems.
+    </p>
 
-  <p>Shucong Li is an Assistant Professor in the School of Materials Science and Engineering and the School of Physics at Georgia Tech. Her research focuses on soft materials, liquid crystalline elastomers, active materials, and advanced manufacturing for programmable soft matter systems.</p>
+  <div class="person-meta">
+      Postdoc, MIT, 2024<br>
+      Ph.D., Harvard University, 2022<br>
+      B.S., Tsinghua University, 2016
+    </div>
+  </div>
 </div>
 
-## Graduate Students
+## PhD Students
 
-<div class="team-grid">
+<div class="person-card">
+  <img src="/media/people/xinyi/avatar.jpg" alt="Xinyi Ding" class="person-avatar">
 
-  <div class="team-member">
-    <img src="/media/people/xinyi/avatar.jpg" alt="Xinyi Ding" class="team-avatar">
+  <div class="person-info">
     <h3>Xinyi Ding</h3>
-    <p><strong>G1 PhD Student</strong><br>Georgia Tech MSE</p>
-    <p><strong>Education</strong><br>Fudan University, B.S. in Materials Physics, 2024</p>
-    <p>In her prior research, Xinyi first focused on sonopiezoelectric nano-therapy for effective tumor eradication in Prof. Meiqi Chang’s lab. Then, she studied the synthesis and application of dual-functional ionogels possessing both ionic thermoelectric and piezoelectric properties under Prof. Ziqi Liang's guidance. Currently, Xinyi is a Ph.D. student in the School of Materials Science and Engineering at Georgia Tech. In Prof. Shucong Li's Lab, her research focuses on the design and fabrication of bio-inspired liquid crystal assemblies through advanced manufacturing techniques, ultimately developing soft materials with environmentally adaptive dynamic reconfigurations.</p>
-  </div>
+    <div class="person-role">PhD Student, Georgia Tech MSE</div>
 
-  <div class="team-member">
-    <img src="/media/people/haodong/avatar.jpg" alt="Haodong Wu" class="team-avatar">
+  <p class="person-bio">
+      In her prior research, Xinyi first focused on sonopiezoelectric nano-therapy for effective tumor eradication in Prof. Meiqi Chang’s lab. Then, she studied the synthesis and application of dual-functional ionogels possessing both ionic thermoelectric and piezoelectric properties under Prof. Ziqi Liang's guidance. Currently, Xinyi is a Ph.D. student in the School of Materials Science and Engineering at Georgia Tech. In Prof. Shucong Li's Lab, her research focuses on the design and fabrication of bio-inspired liquid crystal assemblies through advanced manufacturing techniques, ultimately developing soft materials with environmentally adaptive dynamic reconfigurations.
+    </p>
+
+  <div class="person-meta">
+      B.S. in Materials Physics, Fudan University, 2024
+    </div>
+  </div>
+</div>
+
+<div class="person-card">
+  <img src="/media/people/haodong/avatar.jpg" alt="Haodong Hu" class="person-avatar">
+
+  <div class="person-info">
     <h3>Haodong Hu</h3>
-    <p><strong>G1 PhD Student</strong><br>Georgia Tech MSE</p>
-    <p><strong>Education</strong><br>University of Science and Technology of China, M.S. in Chemistry, 2025</p>
-    <p>Haodong has developed strong interests and motivation in studying polymer materials science since his undergraduate study. After entering USTC, he joined in Prof. Quan Chen’s lab, and his research focused on the elasticity and swelling behaviour of hydrogels based on tetra-armed prepolymers. Haodong has done several poster presentations in international symposiums, and his work has been widely recognized by many excellent researchers. Haodong is currently a Ph.D. student in the School of Materials Science and Engineering at Georgia Tech. His research in the Li lab will focus on smart materials including liquid crystalline elastomers and hydrogels.</p>
-  </div>
+    <div class="person-role">PhD Student, Georgia Tech MSE</div>
 
- <div class="team-member">
-    <img src="/media/people/tushar/avatar.jpg" alt="Tushar Narayan Singh" class="team-avatar">
-    <h3> Tushar Narayan Singh</h3>
-    <p><strong>MS Student</strong><br>MSc Biomedical Engineering at University of Groningen (RUG), AE & MSE Intern Student at Georgia Tech</p>
-    <p><strong>Education</strong><br>University of Groningen, M.S. in Biomedical Engineering, 2025</p>
-    <p>Tushar completed a Bachelor's in Biomedical Engineering at the University of Groningen, with a minor in Biomaterials Science and Engineering. For his Bachelor’s thesis, he worked in the Lerch Lab under the supervision of Dr. Michael Lerch and Foteini Trigka (Ph.D. student), focusing on the digital twinning of liquid crystalline network (LCN) soft robots. This research incorporated computer vision methods to support the development of a predictive model through machine learning, using data from fabricated LCN thin films.
-    In 2023, Tushar began his Master's in Biomedical Engineering at the University of Groningen, while also participating in the High Technology Systems and Materials (HTSM) Honours Programme. For his Master's thesis, he is currently conducting research at Georgia Tech under the guidance of Dr. Shucong Li and Dr. Bolei Deng. His work focuses on macro-to-micro control strategies for liquid crystalline elastomeric (LCE) soft robots. This project features a finite element modelling approach to capture the dynamic behaviours of light-activated LCE structures, serving as a tool to support inverse design workflows.</p>
-  </div>
+  <p class="person-bio">
+      Haodong has developed strong interests and motivation in studying polymer materials science since his undergraduate study. After entering USTC, he joined Prof. Quan Chen’s lab, and his research focused on the elasticity and swelling behavior of hydrogels based on tetra-armed prepolymers. Haodong is currently a Ph.D. student in the School of Materials Science and Engineering at Georgia Tech. His research in the Li lab focuses on smart materials including liquid crystalline elastomers and hydrogels.
+    </p>
 
- <div class="team-member">
-    <img src="/media/people/mara/avatar.jpg" alt="Maria Giannakoudi" class="team-avatar">
-    <h3> Maria Giannakoudi</h3>
-    <p><strong>MS Student</strong><br>Exchange student at MIT, MechE</p>
-    <p><strong>Education</strong><br>Imperial College London / Massachusetts Institute of Technology (Exchange), MEng in Materials Science and Engineering, 2025</p>
-    <p>At Imperial College, Maria worked with Dr. Iain Dunlop to develop a model hydrogel system for reconstructing soft tissues under dynamic tensile loads. During her time at MIT, she completed her master’s thesis as part of the water harvesting team in Professor Xuanhe Zhao’s research lab, and in collaboration with Professor Florian Bouville from Imperial College. Her thesis centered on developing an aero-hydrogel for sorption-based atmospheric water harvesting to address water scarcity in arid regions. This work focused on creating a device with fast sorption kinetics, long-term cycling stability, and scalable fabrication, aiming to bridge the gap between fundamental atmospheric water harvesting research and practical, large-scale applications. </p>
+  <div class="person-meta">
+      M.S. in Chemistry, University of Science and Technology of China, 2025
+    </div>
   </div>
+</div>
+
+## Master’s Students and Visiting Students
+
+<div class="person-card compact">
+  <img src="/media/people/tushar/avatar.jpg" alt="Tushar Narayan Singh" class="person-avatar">
+
+  <div class="person-info">
+    <h3>Tushar Narayan Singh</h3>
+    <div class="person-role">M.S. Student / AE & MSE Intern Student at Georgia Tech</div>
+
+  <p class="person-bio">
+      Tushar is conducting research at Georgia Tech under the guidance of Dr. Shucong Li and Dr. Bolei Deng. His work focuses on macro-to-micro control strategies for liquid crystalline elastomeric soft robots using finite element modeling and inverse design workflows.
+    </p>
+
+  <div class="person-meta">
+      M.S. in Biomedical Engineering, University of Groningen, 2025
+    </div>
+  </div>
+</div>
+
+<div class="person-card compact">
+  <img src="/media/people/mara/avatar.jpg" alt="Maria Giannakoudi" class="person-avatar">
+
+  <div class="person-info">
+    <h3>Maria Giannakoudi</h3>
+    <div class="person-role">M.S. Student / Exchange Student at MIT, MechE</div>
+
+  <p class="person-bio">
+      Maria worked on hydrogel systems for reconstructing soft tissues under dynamic tensile loads at Imperial College and completed her master’s thesis on aero-hydrogels for atmospheric water harvesting at MIT.
+    </p>
+
+  <div class="person-meta">
+      MEng in Materials Science and Engineering, Imperial College London / MIT Exchange, 2025
+    </div>
+  </div>
+</div>
 
 ## Undergraduate Students
 
-  <div class="team-member">
-    <img src="/media/people/gabi/avatar.jpg" alt="Gabriella Carreira" class="team-avatar">
-    <h3> Gabriella Carreira</h3>
-    <p><strong>Undergrad Student</strong><br>Georgia Tech MSE</p>
-    <p><strong>Education</strong><br>B.E. in Materials Science and Engineering with Biomaterials Concentration, 2028</p>
-    <p>Gabi is an undergraduate researcher and a Stamps Presidents Scholar working on the development of oxygen permeable hydrogels for biomedical applications including as wearable health monitors and artificial tissue. Her career interests include bioinspired and green engineering. </p>
-  </div>
+<div class="person-card compact">
+  <img src="/media/people/gabi/avatar.jpg" alt="Gabriella Carreira" class="person-avatar">
 
+  <div class="person-info">
+    <h3>Gabriella Carreira</h3>
+    <div class="person-role">Undergraduate Researcher, Georgia Tech MSE</div>
 
- <div class="team-member">
-    <img src="/media/people/yihui/avatar.jpg" alt="Yihui Ou" class="team-avatar">
-    <h3> Yihui Ou</h3>
-    <p><strong>Undergrad Intern Student</strong><br>Georgia Tech MSE</p>
-    <p><strong>Education</strong><br>Fuzhou University, B.Sc. in Chemical Engineering, 2026</p>
-    <p>Yihui is an undergraduate student in Chemical Engineering at Fuzhou University. He previously conducted research under the supervision of Prof. Chenguang Liu, where he worked on green organic synthesis and flow chemistry, contributing to several peer-reviewed publications. He also gained experience in electrocatalysis under Prof. Yu Luo and Prof. Huihuang Fang. He is currently an undergraduate intern in Prof. Li’s group at Georgia Tech, focusing on the development of light-activated liquid crystal elastomers (LCEs). Outside the lab, he enjoys playing badminton and table tennis.</p>
-  </div>
+  <p class="person-bio">
+      Gabi is an undergraduate researcher and a Stamps President’s Scholar working on the development of oxygen-permeable hydrogels for biomedical applications, including wearable health monitors and artificial tissue.
+    </p>
 
-   <div class="team-member">
-    <img src="/media/people/christian/avatar.jpg" alt="Christian Kim" class="team-avatar">
-    <h3> Christian Kim</h3>
-    <p><strong>1st year Undergrad Student</strong><br>Georgia Tech MSE</p>
-    <p><strong>Education</strong><br>B.E. in Materials Science and Engineering with Biomaterials Concentration, 2029</p>
-    <p>Inspired by the principle of biomimicry, Christian is investigating the development and testing of liquid crystal elastomer composites through 3D printing techniques. This work aims to advance research on artificial muscles and other biomaterial systems.</p>
+  <div class="person-meta">
+      B.E. in Materials Science and Engineering with Biomaterials Concentration, 2028
+    </div>
   </div>
-  
+</div>
+
+<div class="person-card compact">
+  <img src="/media/people/yihui/avatar.jpg" alt="Yihui Ou" class="person-avatar">
+
+  <div class="person-info">
+    <h3>Yihui Ou</h3>
+    <div class="person-role">Undergraduate Intern Student, Georgia Tech MSE</div>
+
+  <p class="person-bio">
+      Yihui is an undergraduate student in Chemical Engineering at Fuzhou University. He is currently an undergraduate intern in Prof. Li’s group at Georgia Tech, focusing on the development of light-activated liquid crystal elastomers.
+    </p>
+
+  <div class="person-meta">
+      B.Sc. in Chemical Engineering, Fuzhou University, 2026
+    </div>
   </div>
-     <div class="team-member">
-    <img src="/media/people/botao/avatar.jpg" alt="Botao Li" class="team-avatar">
-    <h3> Botao Li</h3>
-    <p><strong>4th year Undergrad Intern Student</strong><br>Georgia Tech MSE</p>
-    <p><strong>Education</strong><br>B.Sc. in Chemistry, 2026</p>
-    <p>Botao is a senior undergraduate student majoring in Chemistry at Wuhan University. He gained experience in organic synthesis under the supervision of Prof. Wenbo Liu. He also conducted research under the guidance of Prof. Zhen Li, focusing on organic room-temperature phosphorescent (RTP) materials containing dynamic covalent bonds. He is currently an undergraduate intern in Prof. Li’s group at Georgia Tech, where he focuses on the integration of organic luminescent materials with liquid crystal elastomers (LCEs).</p>
+</div>
+
+<div class="person-card compact">
+  <img src="/media/people/christian/avatar.jpg" alt="Christian Kim" class="person-avatar">
+
+  <div class="person-info">
+    <h3>Christian Kim</h3>
+    <div class="person-role">Undergraduate Researcher, Georgia Tech MSE</div>
+
+  <p class="person-bio">
+      Inspired by biomimicry, Christian is investigating the development and testing of liquid crystal elastomer composites through 3D printing techniques for artificial muscles and biomaterial systems.
+    </p>
+
+   <div class="person-meta">
+      B.E. in Materials Science and Engineering with Biomaterials Concentration, 2029
+    </div>
   </div>
+</div>
+
+<div class="person-card compact">
+  <img src="/media/people/botao/avatar.jpg" alt="Botao Li" class="person-avatar">
+
+  <div class="person-info">
+    <h3>Botao Li</h3>
+    <div class="person-role">Undergraduate Intern Student, Georgia Tech MSE</div>
+
+  <p class="person-bio">
+      Botao is a senior undergraduate student majoring in Chemistry at Wuhan University. He is currently an undergraduate intern in Prof. Li’s group at Georgia Tech, focusing on the integration of organic luminescent materials with liquid crystal elastomers.
+    </p>
+
+  <div class="person-meta">
+      B.Sc. in Chemistry, Wuhan University, 2026
+    </div>
+  </div>
+</div>
 
 </div>
