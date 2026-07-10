@@ -133,7 +133,7 @@ url: /team/
     <div class="person-role">Assistant Professor, Georgia Tech MSE &amp; Physics</div>
 
 <div class="person-meta">
-  Email: <a href="mailto:shucong.li@gatech.edu">shucong.li@gatech.edu</a>
+  Email: <a href="mailto:shucong.li@gatech.edu">shucong.li@mse.gatech.edu</a>
 </div>
 
 <p class="person-bio">
