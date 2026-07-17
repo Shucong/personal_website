@@ -316,7 +316,7 @@ url: /team/
 </div>
 
 <div class="person-card">
-  <img src="/media/people/rongquan/avatar.jpg" alt="Rongquan Zhou" class="person-avatar">
+  <img src="/media/people/sid/avatar.jpg" alt="Siddharth K Sivakumar" class="person-avatar">
 
   <div class="person-info">
     <h3>Siddharth K Sivakumar</h3>
