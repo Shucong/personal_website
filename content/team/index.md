@@ -315,6 +315,9 @@ url: /team/
   B.Sc. in Materials Science and Engineering with Function Materials Concentration, Georgia Tech, 2029
 </div>
 
+  </div>
+</div>
+
 <div class="person-card">
   <img src="/media/people/sid/avatar.jpg" alt="Siddharth K Sivakumar" class="person-avatar">
 
