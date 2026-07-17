@@ -300,4 +300,22 @@ url: /team/
   </div>
 </div>
 
+<div class="person-card">
+  <img src="/media/people/rongquan/avatar.jpg" alt="Rongquan Zhou" class="person-avatar">
+
+  <div class="person-info">
+    <h3>Rongquan (Jarvis) Zhou</h3>
+    <div class="person-role">Undergraduate Student, Georgia Tech MSE</div>
+
+<p class="person-bio">
+  Rongquan is interested in stimuli-responsive material systems and their potential applications in robotics. His current work focuses on material structures triggered by light and magnetic fields, with the goal of expanding their tunable properties and improving their functional performance.
+</p>
+
+<div class="person-meta">
+  B.Sc. in Materials Science and Engineering with Function Materials Concentration, Georgia Tech, 2029
+</div>
+
+  </div>
+</div>
+
 </div>
