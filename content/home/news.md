@@ -14,7 +14,7 @@ design:
 ---
 <div style="margin-bottom: 1rem;">
   <strong>May 30, 2026</strong><br>
-  We are thrilled to celebrate an important milestone for our lab. Our graduate students, Xinyi Ding and Haodong Liu, have both successfully passed their qualifying exams! We are proud of their hard work and look forward to their continued research progress!
+  We are thrilled to celebrate an important milestone for our lab. Our graduate students, Xinyi Ding and Haodong Hu, have both successfully passed their qualifying exams! We are proud of their hard work and look forward to their continued research progress!
   </a>
 </div>
 
