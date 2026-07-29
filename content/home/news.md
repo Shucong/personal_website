@@ -13,6 +13,12 @@ design:
   columns: "1"
 ---
 <div style="margin-bottom: 1rem;">
+  <strong>May 30, 2026</strong><br>
+  We are thrilled to celebrate an important milestone for our lab. Our graduate students, Xinyi Ding and Haodong Liu, have both successfully passed their qualifying exams! We are proud of their hard work and look forward to their continued research progress!
+  </a>
+</div>
+
+<div style="margin-bottom: 1rem;">
   <strong>April 16, 2026</strong><br>
   Excited to share that our group has been awarded a 2026 RBI Fellowship with Dr. Julene Tong (GT, ChBE) for our project, "Robust Packaging Insert via Phase-Separated Lignin Aerogel Particle-Supported Cellulose Hydrogel Composites.”
   <a href="https://news.research.gatech.edu/2026/04/16/rbi-announces-new-fellowships-expanding-interdisciplinary-reach" target="_blank">
