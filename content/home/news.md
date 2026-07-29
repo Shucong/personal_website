@@ -21,7 +21,7 @@ design:
 <div style="margin-bottom: 1rem;">
   <strong>June 4, 2026</strong><br>
   <a href="https://experiential.learning.gatech.edu/urop/pura-salary/" target="_blank">
-  Georgia Tech PURA award: 
+  Georgia Tech PURA award: </a>
   We are incredibly proud of both Christian Kim and Stephanie Li for receiving the competitive President's Undergraduate Research Award (PURA) for Fall 2026. The two of them put in a lot of effort into their proposals and have grown a lot as researchers. We look forward to working with the two of them this upcoming Fall.
 </div>
 
