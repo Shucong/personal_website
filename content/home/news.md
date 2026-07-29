@@ -14,15 +14,17 @@ design:
 ---
 <div style="margin-bottom: 1rem;">
   <strong>July 24, 2026</strong><br>
-  **MSE research fellowship:** Congratulations to Christian Kim for completing his MSE research scholars fellowship for the Summer of 2026. He has made a lot of research progress in the field of soft active matter during the Summer, and we are excited to continue working with him in the Fall of 2026 as he continues his Summer project!
+  Congratulations to Christian Kim for completing his MSE research scholars fellowship for the Summer of 2026. He has made a lot of research progress in the field of soft active matter during the Summer, and we are excited to continue working with him in the Fall of 2026 as he continues his Summer project! <a href="https://www.mse.gatech.edu/undergraduate-program/prospective-students" target="_blank">
+  More about the MSE research fellowship
+  </a>
   </a>
 </div>
 
 <div style="margin-bottom: 1rem;">
   <strong>June 4, 2026</strong><br>
-  <a href="https://experiential.learning.gatech.edu/urop/pura-salary/" target="_blank">
-  Georgia Tech PURA award: </a>
-  We are incredibly proud of both Christian Kim and Stephanie Li for receiving the competitive President's Undergraduate Research Award (PURA) for Fall 2026. The two of them put in a lot of effort into their proposals and have grown a lot as researchers. We look forward to working with the two of them this upcoming Fall.
+  We are incredibly proud of both Christian Kim and Stephanie Li for receiving the competitive President's Undergraduate Research Award (PURA) for Fall 2026. The two of them put in a lot of effort into their proposals and have grown a lot as researchers. We look forward to working with the two of them this upcoming Fall. <a href="https://experiential.learning.gatech.edu/urop/pura-salary/" target="_blank">
+  More about the PURA award
+  </a>
 </div>
 
 
