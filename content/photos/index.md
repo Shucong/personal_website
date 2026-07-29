@@ -31,6 +31,9 @@ design:
 </div>
 
 ## **Lab Memories**
+![](celebration.png)
+Celebrate our collaborative new paper published in Nature! (July 2026)
+
 ![](group_BBQ.png)
 Summer group BBQ gathering (June 2026)
 
