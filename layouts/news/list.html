@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<div class="universal-wrapper pt-3" style="padding-bottom: 0;">
+  <h1 style="margin-bottom: 0.2rem;">{{ .Title }}</h1>
+</div>
+
+<div class="universal-wrapper">
+
+  {{ range .Pages.ByDate.Reverse }}
+
+    <div style="margin-bottom: 1.2rem;">
+
+      <h2 style="margin-bottom: 0.15rem; font-weight: 700;">
+        {{ .Title }}
+      </h2>
+
+      <div class="article-style"
+           style="font-size: 0.95rem; line-height: 1.45; margin-bottom: 0.15rem;">
+        {{ .Content }}
+      </div>
+
+      <div style="color: #777; font-size: 0.85rem; margin-top: 0; margin-bottom: 0;">
+        {{ .Date.Format "Jan 2, 2006" }}
+      </div>
+
+    </div>
+
+  {{ end }}
+
+</div>
+
+<style>
+.article-style p {
+  margin-top: 0 !important;
+  margin-bottom: 0.25rem !important;
+}
+
+.article-style a {
+  font-size: 0.95rem;
+}
+</style>
+
+{{ end }}
