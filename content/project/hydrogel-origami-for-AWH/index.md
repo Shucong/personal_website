@@ -8,6 +8,9 @@ date: "2026-01-05T00:00:00Z"
 summary: <br/> **Related publication:**<br/> 1. <span style="color:darkgray">Chang Liu, Xiao-yun Yan, Hongshi Zhang, Bolei Deng, Nicholas X. Fang, Youssef Habibi, Shih-Chi Chen, Xuanhe Zhao</span> (2025). [**A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley**](https://www.nature.com/articles/s44221-025-00447-2). *Nature Water*.
 
 projects: []
+share: false
+profile: false
+show_related: false
 
 draft: false
 featured: false
@@ -18,11 +21,7 @@ image:
   placement: 1
   preview_only: false
 
-tags:
-- hydrogels
-- atmospheric water harvesting
-- origami materials
-- sustainable materials
+tags: []
 ---
 
 ## What we study
@@ -47,6 +46,7 @@ Hydrogels are water-rich polymer networks that combine the softness of biologica
 .hydrogel-paper-meta { color: #777; font-size: .78rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
 .hydrogel-paper-copy a { font-weight: 650; text-decoration: none; }
 .hydrogel-paper-copy a:hover { text-decoration: underline; }
+.project-related-pages { display: none !important; }
 @media (max-width: 700px) {
 .hydrogel-paper { grid-template-columns: 1fr; gap: .8rem; }
 .hydrogel-paper-image { min-height: 120px; }

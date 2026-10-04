@@ -8,6 +8,9 @@ date: "2026-01-08T00:00:00Z"
 summary: "Responsive architectures that couple molecular alignment, cellular geometry, and topology for programmable transformation."
 
 projects: []
+share: false
+profile: false
+show_related: false
 
 draft: false
 featured: false
@@ -18,11 +21,7 @@ image:
   placement: 1
   preview_only: false
 
-tags:
-- reconfigurable architectures
-- topological transformations
-- liquid crystalline elastomers
-- metamaterials
+tags: []
 ---
 
 Responsive architectures translate local molecular changes into collective shape and topology. We combine liquid-crystal alignment, cellular geometry, and phase behavior to understand how connectivity controls transformation. This approach enables reconfigurable materials with programmable mechanical, optical, and interfacial functions for soft machines and adaptive structures.
@@ -46,5 +45,6 @@ Responsive architectures translate local molecular changes into collective shape
 .theme-paper-meta { color: #777; font-size: .78rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
 .theme-paper-copy a { font-weight: 650; text-decoration: none; }
 .theme-paper-copy a:hover { text-decoration: underline; }
+.project-related-pages { display: none !important; }
 @media (max-width: 700px) { .theme-paper { grid-template-columns: 1fr; gap: .8rem; } .theme-paper-image { min-height: 120px; } }
 </style>

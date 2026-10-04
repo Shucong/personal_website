@@ -8,6 +8,9 @@ date: "2026-01-01T00:00:00Z"
 summary: "Soft actuators and liquid-crystal elastomers that convert molecular order and external stimuli into programmed motion."
 
 projects: []
+share: false
+profile: false
+show_related: false
 
 draft: false
 featured: false
@@ -18,11 +21,7 @@ image:
   placement: 1
   preview_only: false
 
-tags:
-- soft actuation
-- robotics
-- liquid crystalline elastomers
-- microactuators
+tags: []
 ---
 
 Soft actuators are polymeric materials that convert light, heat, liquid, or other stimuli into motion. Their behavior emerges from the coupling of molecular order, network mechanics, anisotropy, and architecture. We use liquid-crystalline elastomers, responsive polymers, and microfabrication to design multistep, self-regulated, and non-reciprocal motions. These principles guide soft robots, microactuators, and adaptive devices.
@@ -46,5 +45,6 @@ Soft actuators are polymeric materials that convert light, heat, liquid, or othe
 .theme-paper-meta { color: #777; font-size: .78rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
 .theme-paper-copy a { font-weight: 650; text-decoration: none; }
 .theme-paper-copy a:hover { text-decoration: underline; }
+.project-related-pages { display: none !important; }
 @media (max-width: 700px) { .theme-paper { grid-template-columns: 1fr; gap: .8rem; } .theme-paper-image { min-height: 120px; } }
 </style>
