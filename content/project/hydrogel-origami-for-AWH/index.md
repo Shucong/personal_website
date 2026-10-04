@@ -24,8 +24,6 @@ image:
 tags: []
 ---
 
-## What we study
-
 Hydrogels are water-rich polymer networks that combine the softness of biological tissues with the chemical and mechanical tunability of synthetic materials. They can absorb, transport, and release water and gases, while changing shape or mechanics in response to their environment. We use polymer chemistry, phase engineering, mechanics, and structural design to understand how molecular interactions and multiscale architecture govern transport and response. These principles guide the design of breathable soft interfaces, atmospheric water-harvesting systems, and adaptive hydrogel devices.
 
 ## Selected papers
