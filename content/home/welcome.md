@@ -1,23 +1,76 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+widget: blank
+headless: true
+weight: 10
 
-widget: blank  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 20  # Order that this section will appear.
-title: "About"
+title: ""
 subtitle: ""
+
 design:
-  columns: '1'
+  columns: "1"
 ---
-As a researcher in materials science, I have always been fascinated by the intelligent materials—living organisms—that nature creates. To survive and thrive in ever-changing environments, “nature uses soft materials frequently and stiff materials sparingly—better bent than broken” (Vogel, 1995), enabling functions that surpass even the most impressive machines humans have devised.
 
-Our group develops soft intelligent materials by coupling molecular switches, phase behavior, mesoscale architecture, and macroscale mechanics. We integrate soft matter physics, polymer phase engineering, liquid crystalline materials, mechanics, and advanced manufacturing to create adaptive materials and soft robotic systems.
+<div class="home-intro">
+<h1>Programming soft matter for motion, transport, and adaptation.</h1>
+<p class="home-intro-text">SRM-Lab investigates how molecular interactions, phase behavior, and material architecture govern the response of soft polymers. By combining polymer chemistry, mechanics, and advanced manufacturing, we develop hydrogels, actuators, and reconfigurable materials for healthcare, soft robotics, and sustainability.</p>
+<div class="home-intro-buttons">
+<a class="home-button" href="/opportunity/">Join the Lab</a>
+</div>
+</div>
 
-Prior to joining Georgia Tech, I was a Postdoctoral Scholar in Mechanical Engineering at MIT, working with <a href="http://zhao.mit.edu/teams/xuanhe-zhao/" style="text-decoration: underline;">Prof. Xuanhe Zhao</a> on multiscale structural control of hydrogels for sustainability and healthcare. For my doctoral research, I worked with <a href="https://aizenberglab.seas.harvard.edu/" style="text-decoration: underline;">Prof. Joanna Aizenberg</a> at Harvard University, where I earned my Ph.D. in Chemistry in 2022.
+<style>
+.home-intro {
+  max-width: 950px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1rem 1rem 1.5rem 1rem;
+}
 
-<br>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, black, transparent);">
-<br>
-<!-- **Specialties:** polymer chemistry, material synthesis, nanofabrication -->
+.home-intro h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 1rem;
+}
+
+.home-intro-text {
+  max-width: 850px;
+  margin: 0 auto 0.8rem auto;
+  font-size: 1.08rem;
+  line-height: 1.65;
+}
+
+.home-intro-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 0.55rem 1.1rem;
+  border: 1px solid #333;
+  border-radius: 4px;
+  color: #333 !important;
+  text-decoration: none !important;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.home-button:hover {
+  text-decoration: none !important;
+  opacity: 0.75;
+}
+
+@media (max-width: 768px) {
+  .home-intro h1 {
+    font-size: 1.7rem;
+  }
+
+  .home-intro-text {
+    font-size: 1rem;
+  }
+}
+</style>

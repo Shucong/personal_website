@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-weight: 2
+weight: 40
 
 title: News
 subtitle: Recent updates and highlights
